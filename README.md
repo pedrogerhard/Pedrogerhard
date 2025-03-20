@@ -73,7 +73,7 @@ Estudante de Programação apaixonado por Desenvolvimento de Software em busca d
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="189" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogerhard&theme=tokyonight&layout=compact&custom_title=tecnologias" 
   />
