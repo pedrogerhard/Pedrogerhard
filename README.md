@@ -57,6 +57,15 @@ Estudante de Programação apaixonado por Desenvolvimento de Software em busca d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Spring Boot"
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
 <br/>
 
 
@@ -65,10 +74,10 @@ Estudante de Programação apaixonado por Desenvolvimento de Software em busca d
 <div>
   <a href="https://github.com/Pedrogerhard">
   <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogerhard&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=pedrogerhard&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogerhard&layout=compact&langs_count=7&theme=radical"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogerhard&layout=compact&langs_count=7&theme=radical"/> 
   </center>
 </div>
 
