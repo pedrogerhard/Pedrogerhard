@@ -68,7 +68,7 @@ Estudante de Programação apaixonado por Desenvolvimento de Software em busca d
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogerhard&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogerhard&layout=compact&langs_count=7&theme=radical"/> 
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogerhard&layout=compact&langs_count=7&theme=radical"/> 
   </center>
 </div>
 
