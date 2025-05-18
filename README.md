@@ -3,7 +3,7 @@
 **`Desenvolvedor`**
 
 Estudante de Programação apaixonado por Desenvolvimento de Software em busca de oportunidades de aprendizado e
- crescimento. Tenho 18 anos, atualmente no terceiro semestre de ADS pela UNICV. Tenho uma forte base em lógica de
+ crescimento. Tenho 19 anos, atualmente no terceiro semestre de ADS pela UNICV. Tenho uma forte base em lógica de
  programação, também uma paixão pela programação pois creio que ela nos permite chegar aonde a mente humana não
  alcança. Sou comunicativo, gosto de trabalhar em equipe, também sou um curioso nato, gosto de entender a lógica por trás
  das coisas.
@@ -62,20 +62,13 @@ Estudante de Programação apaixonado por Desenvolvimento de Software em busca d
 
 ### 📊 Estatísticas
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pedrogerhard&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="182" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogerhard&theme=tokyonight&layout=compact&custom_title=tecnologias" 
-  />
-
+<div>
+  <a href="https://github.com/Pedrogerhard">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogerhard&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogerhard&layout=compact&langs_count=7&theme=radical"/> 
+  </center>
+</div>
 
